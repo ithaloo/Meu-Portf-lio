@@ -11,4 +11,4 @@ Website Portfólio Responsivo Usando Html, Css e JavaScript, Com uma bela interf
 
 
 
-![Resume cv](/preview.png)
+![Meu Currículo](/assets/pdf/Curriculo_.pdf)
