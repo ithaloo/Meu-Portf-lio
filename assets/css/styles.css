@@ -573,7 +573,7 @@ align-self: center;
   transform: translate(6px, -7px);
 }
 
-.qualification__content[data-content]{
+.qualification [data-content]{
   display: none;
 }
 
@@ -584,8 +584,6 @@ align-self: center;
 .qualification__button.qualification__active{
   color: var(--first-color);
 }
-
-
 /*==================== SERVICES ====================*/
 
 
